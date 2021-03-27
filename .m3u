@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="Playboy SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRfEwGTwlJU_2oCwHDqvZDAwdcNafUNnqTOIbZ9hc8spcOQvPk" group-title="Canais | [XXX] ADULTO",Playboy SD
+http://srv.maxptv.net:8080/live/Paulo1/1234/87.m3u8
+#EXTINF:-1 tvg-id="Sextreme.cl" tvg-name="Sextreme SD" tvg-logo="https://3.bp.blogspot.com/-X0DcNLI45_0/VgsCHTBetKI/AAAAAAAAldA/7hLYfIyR5Zc/s1600/Sextreme.png" group-title="Canais | [XXX] ADULTO",Sextreme SD
+http://srv.maxptv.net:8080/live/Paulo1/1234/56.m3u8
+
+#EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="Sexy Hot SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/25/Sexy_Hot_logo.png/revision/latest?cb=20130504223718" group-title="Canais | [XXX] ADULTO",Sexy Hot SD
+http://srv.maxptv.net:8080/live/Paulo1/1234/54.m3u8
+
+#EXTINF:-1 tvg-id="venus.pt" tvg-name="Venus SD" tvg-logo="http://consultoriapt.com/images/venus-logo.png" group-title="Canais | [XXX] ADULTO",Venus SD
+http://srv.maxptv.net:8080/live/Paulo1/1234/9.m3u8
